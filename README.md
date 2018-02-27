@@ -1,6 +1,4 @@
-**JFRZ**
-
-José Francisco Ruiz Zamora :alien:
+**José Francisco Ruiz Zamora**
 
 UAL 
 
