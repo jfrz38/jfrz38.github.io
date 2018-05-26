@@ -10,18 +10,18 @@ Máquina Virtual 3 (Página web): pole-hmis18-vm3.northeurope.cloudapp.azure.com
 
 ## Sesión 02
 
-Nombre máquina virtual: jrz899-hmis18-vm2
+Nombre máquina virtual: jrz899-hmis18-vm2 <br />
 DNS: jrz899-hmis18-vm2.eastus.cloudapp.azure.com
 
 ## Sesión 03
 
-DNS GitLab: arz641-hmis18-vm1.eastus.cloudapp.azure.com
-DNS Jenkins: jrz899-hmis18-vm2.eastus.cloudapp.azure.com
+DNS GitLab: arz641-hmis18-vm1.eastus.cloudapp.azure.com <br />
+DNS Jenkins: jrz899-hmis18-vm2.eastus.cloudapp.azure.com <br />
 Repositorio Gitlab: sesion03-jrz899
 
 ## Sesión 04
 
-URL página equipo: pole-hmis18-vm3.northeurope.cloudapp.azure.com
+URL página equipo: pole-hmis18-vm3.northeurope.cloudapp.azure.com <br />
 Repositorio GitHub: https://github.com/jfrz38/PoleWebsite
 
 ## Sesión 06
